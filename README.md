@@ -1,3 +1,6 @@
+## ABOUT
+This is the robot code repo for the Itkan of MYCC robotics team (#23532). Insane stuff will happen.
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
