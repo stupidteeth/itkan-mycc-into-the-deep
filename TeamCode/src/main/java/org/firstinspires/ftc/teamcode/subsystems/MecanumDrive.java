@@ -9,10 +9,10 @@ public class MecanumDrive {
     public DcMotorEx frontLeft, frontRight, backLeft, backRight;
 
     public MecanumDrive(HardwareMap map) {
-       frontLeft = map.get(DcMotorEx.class, "fl");
-       frontRight = map.get(DcMotorEx.class, "fr");
-       backLeft = map.get(DcMotorEx.class, "bl");
-       backRight = map.get(DcMotorEx.class, "br");
+        frontLeft = map.get(DcMotorEx.class, "fl");
+        frontRight = map.get(DcMotorEx.class, "fr");
+        backLeft = map.get(DcMotorEx.class, "bl");
+        backRight = map.get(DcMotorEx.class, "br");
     }
 
 

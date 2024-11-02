@@ -16,6 +16,7 @@ public class TankDrive extends OpMode {
         leftMotor = hardwareMap.get(DcMotor.class, "left");
         rightMotor = hardwareMap.get(DcMotor.class, "right");
 
+
         leftMotor.setDirection(DcMotorSimple.Direction.REVERSE);
 
     }
