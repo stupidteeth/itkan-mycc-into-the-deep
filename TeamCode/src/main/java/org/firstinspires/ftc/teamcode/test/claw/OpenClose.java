@@ -28,7 +28,6 @@ public class OpenClose extends OpMode {
             gamepad1.a button = true;
         }
 
-
         while (gamepad1.a = true) {
 
 
